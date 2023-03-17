@@ -1,5 +1,4 @@
-# Grofers_Hiring_Assignment
-Gopi Vamsi Penaganti | 17IE33006 | IIT Kharagpur | Refferal Systems working API 
+Refferal Systems working API 
 
 #Requirements:
 We have used Python programming language and Flask framework for implementing API's amd MySQL for the databases in Windows 10 system.
